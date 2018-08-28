@@ -96,6 +96,21 @@ Be consistent in the decisions you take.
 - You are free to make the website responsive as you want. Think how the layouts should behaivour and think in the UX.
 - Test it in your phone.
 
+### Analytics
+- Create an account and add the snippet to track the views.
+```html
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXX-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-XXXXXXXX-1');
+</script>
+```
+
+
 ## Process
 - Before start coding.
 	- Divide the project in small tasks
