@@ -117,7 +117,7 @@ Be consistent in the decisions you take.
 	- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 	- [GIT Style Guide](https://udacity.github.io/git-styleguide/)
 - Don't use the `master` branch to develop.
-- (Use Gitflow)[https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow]
+- [Use Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Project Resources 
 - [Original Nexflix Webpage](https://netflix.com)
@@ -138,7 +138,7 @@ With ❤️ from your new teacher [Antonio Sejas](https://sejas.es) .
 -  [![Linkedin](https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-linkedin-s.png) antoniosejas](http://bit.ly/2LghNDK)
 
 ## Contribution
-Feel free to make a pull request to fix any type or mistake.
+Feel free to make a pull request to fix any typo or mistake.
 
 # License
-See the [LICENSE](LICENSE) file for license rights and limitations.
+See the [LICENSE](LICENSE.md) file for license rights and limitations.
