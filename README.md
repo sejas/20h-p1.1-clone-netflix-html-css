@@ -141,4 +141,4 @@ With ❤️ from your new teacher [Antonio Sejas](https://sejas.es) .
 Feel free to make a pull request to fix any typo or mistake.
 
 # License
-See the [LICENSE](LICENSE) file for license rights and limitations.
+See the [LICENSE](LICENSE.md) file for license rights and limitations.
